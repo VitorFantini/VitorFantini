@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<title id="title">Vitor Fantini — código que conecta software e mundo real</title>
+<desc id="desc">Capa escura com detalhes amarelos e azuis, um relógio e conexões representando desenvolvimento de software.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#111b2a"/><stop offset="1" stop-color="#090e16"/></linearGradient><pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="12" cy="12" r="1" fill="#344154" opacity=".45"/></pattern></defs>
+<rect width="1200" height="320" rx="24" fill="url(#bg)"/><rect width="1200" height="320" rx="24" fill="url(#dots)"/>
+<rect x="52" y="54" width="5" height="211" rx="2.5" fill="#ffd600"/>
+<g font-family="Segoe UI,Arial,sans-serif"><text x="80" y="83" font-size="13" font-weight="700" letter-spacing="3" fill="#ffd600">SOFTWARE · MOBILIDADE · SISTEMAS</text><text x="77" y="150" font-size="57" font-weight="750" fill="#f0f4fa">Vitor Fantini</text><text x="80" y="192" font-size="22" fill="#b4c1d2">Código que conecta software e mundo real.</text><text x="80" y="249" font-size="15" fill="#8092aa">Engenharia da Computação  /  São Carlos, SP</text></g>
+<g fill="none" stroke="#34465c" stroke-width="2"><path d="M814 100 H760 V220 H819"/><path d="M1011 100 H1080 V220 H1010"/><path d="M766 160 H805 M1020 160 H1075"/></g>
+<g fill="#82b5ff"><circle cx="760" cy="100" r="5"/><circle cx="1080" cy="220" r="5"/></g>
+<rect x="875" y="24" width="74" height="55" rx="16" fill="#1d2a3b"/><rect x="875" y="241" width="74" height="55" rx="16" fill="#1d2a3b"/>
+<circle cx="912" cy="160" r="99" fill="#182434" stroke="#42536a" stroke-width="3"/><circle cx="912" cy="160" r="82" fill="#090e16"/>
+<path d="M863 195 L886 173 L905 181 L938 131 L961 122" fill="none" stroke="#82b5ff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="961" cy="122" r="7" fill="#ffd600"/><rect x="875" y="151" width="23" height="29" rx="6" fill="#69e88c"/><rect x="880" y="156" width="13" height="11" rx="2" fill="#0b1713"/><circle cx="881" cy="173" r="2" fill="#0b1713"/><circle cx="892" cy="173" r="2" fill="#0b1713"/>
+<text x="912" y="214" text-anchor="middle" fill="#ffd600" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="2">SOU WATCH</text></svg>
