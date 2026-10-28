@@ -71,5 +71,5 @@ Uso **Kotlin e Jetpack Compose** na interface do relógio, **APIs HTTP** para in
 
 <p align="center">
   <strong>Vamos conversar sobre software?</strong><br>
-  <a href="mailto:vitorm.fantini@gmail.com">vitorm.fantini@gmail.com</a>
+  <a href="mailto:vitormf3003@gmail.com">vitormf3003@gmail.com</a>
 </p>
